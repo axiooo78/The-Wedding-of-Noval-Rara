@@ -78,26 +78,27 @@ body {
   margin-top: 25px;
 }
 .simply-countdown .simply-section {
-  background-color: #807917;
-  padding: 15px 18px;
-  border-radius: 12px;
-  min-width: 70px;
+  background: linear-gradient(145deg, #807917, #a89f2a);
+  padding: 18px;
+  border-radius: 15px;
+  min-width: 80px;
   text-align: center;
-  box-shadow: 0 8px 20px rgba(155, 151, 30, 0.35);
+  box-shadow: 0 10px 25px rgba(128,121,23,0.5);
 }
+
 
 
 
 .simply-countdown .simply-section {
   box-shadow: 0 8px 20px rgba(155, 151, 30, 0.35);
 }
-
 .simply-countdown .simply-section span {
-  display: block;
-  font-size: 26px;
+  font-size: 28px;
   font-weight: bold;
-  color: white;
+  color: #fff;
 }
+
+
 
 .simply-countdown .simply-section p {
   margin: 0;
@@ -132,6 +133,7 @@ html {
       font-size: 60%;
     }
 }
+
 
 
 
